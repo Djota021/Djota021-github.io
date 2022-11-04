@@ -12,7 +12,7 @@
 
 @font-face {
     font-family: MochiyPopOne;
-    src: url("../res/font/MochiyPopOne-Regular.ttf") format("truetype");
+    src: url("MochiyPopOne-Regular.ttf") format("truetype");
 }
 
 @media screen and (max-width: 600px) {
@@ -265,22 +265,22 @@ td {
 }
 
 #treca p#zanzibar {
-    background-image: url('../res/zanzibar.jpg');
+    background-image: url('zanzibar.jpg');
     background-size: contain;
 }
 
 #treca p#maldivi {
-    background-image: url('../res/maldivi.jpg');
+    background-image: url('maldivi.jpg');
     background-size: 6em 2em;
 }
 
 #treca p#dubai {
-    background-image: url('../res/dubai.jpg');
+    background-image: url('dubai.jpg');
     background-size: contain;
 }
 
 #treca p#havaji {
-    background-image: url('../res/havaji.jpg');
+    background-image: url('havaji.jpg');
     background-size: cover;
 }
 

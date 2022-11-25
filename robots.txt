@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /favIcon/
+Disallow: dubai.jpg , havaji.jpg , maldivi.jpg , pocetna.jpg , zanzibar.jpg
+
+sitemap: djota021.github.io_sitemap_1.xml
